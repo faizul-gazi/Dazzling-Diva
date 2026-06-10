@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Geist Sans", system-ui, -apple-system, sans-serif;
+  --font-aclonica: "Aclonica", sans-serif;
+  --color-brand-purple: #2A0927;
+  --color-brand-yellow: #FFE600;
+}
+
+:root {
+  font-family: "Geist Sans", system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #f9fafb;
+  color: #1f2937;
+}
